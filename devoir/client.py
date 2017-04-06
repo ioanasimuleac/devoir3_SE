@@ -1,3 +1,5 @@
+#Simuleac Ioana-Veronica
+
 # -*- coding: cp1252 -*-
 import socket, sys
 HOST = socket.gethostname()
